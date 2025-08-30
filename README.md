@@ -17,8 +17,8 @@ DEEPWORK is an advanced AI-powered research and browser automation tool using Pl
 
 ## Quick Start
 1. **Clone the repository**
-	```sh
-	git clone 
+	```sh 
+	git clone https://github.com/Rithish-2914/DEEPTECH-AI.git
 	cd DEEPWORK
 	```
 2. **Create and activate a Python virtual environment**
