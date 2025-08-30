@@ -1,0 +1,29 @@
+# Ignore Python virtual environments
+.venv/
+venv/
+workai_env/
+
+# Ignore local environment files
+.env
+
+# Ignore Python cache and build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
