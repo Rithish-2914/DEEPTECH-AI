@@ -1,13 +1,6 @@
-<<<<<<< HEAD
+# DEEPWORK (DEEPTECH-AI)
 
-
-# DEEPWORK
-
-=======
-# DEEPWORK
-
->>>>>>> 3874afa1af304265e91da5402ac14d0e297db17c
-DEEPWORK is an advanced AI-powered research and browser automation tool using Playwright and Groq LLMs.
+DEEPWORK is an advanced AI-powered research and autonomous browser exploration tool powered by Playwright and Groq LLMs.
 
 ## Features
 - Deep multi-layered research using Groq LLMs
@@ -65,7 +58,7 @@ python main.py "What is the future of AI in medicine?"
 - `main.py`: Main application entry point
 - `browser_controller.py`: Browser automation logic
 - `research_agent.py`: AI research logic
-- `.env`: Environment variables for API keys
+- `.env.example`: Template for API keys and configuration
 - `requirements.txt`: Python dependencies
 - `README.md`: Project documentation
 - `LICENSE`: MIT License
